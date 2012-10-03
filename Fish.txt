@@ -1,0 +1,164 @@
+A/DT fish/NN is/VBZ any/DT member/NN of/IN a/DT paraphyletic/JJ group/NN of/IN organisms/NNS that/WDT consist/VBP of/IN all/DT gill-bearing/JJ aquatic/JJ craniate/NN animals/NNS that/DT lack/NN limbs/NNS with/IN digits/NNS ./.
+Included/VBN in/IN this/DT definition/NN are/VBP the/DT living/VBG hagfish/NN ,/, lampreys/NNS ,/, and/CC cartilaginous/JJ and/CC bony/JJ fish/NN ,/, as/RB well/RB as/IN various/JJ extinct/JJ related/VBN groups/NNS ./.
+Most/JJS fish/NN are/VBP ectothermic/JJ (/( "/" cold-blooded/JJ "/" )/) ,/, allowing/VBG their/PRP$ body/NN temperatures/NNS to/TO vary/VB as/IN ambient/NN temperatures/NNS change/VBP ,/, though/IN some/DT of/IN the/DT large/JJ active/JJ swimmers/NNS like/IN white/JJ shark/NN and/CC tuna/NN can/MD hold/VB a/DT higher/JJR core/NN temperature/NN ./.
+[1][2]/CD Fish/NNP are/VBP abundant/JJ in/IN most/JJS bodies/NNS of/IN water/NN ./.
+They/PRP can/MD be/VB found/VBN in/IN nearly/RB all/DT aquatic/JJ environments/NNS ,/, from/IN high/JJ mountain/NN streams/NNS (/( e.g./FW ,/, char/VB and/CC gudgeon/VB )/) to/TO the/DT abyssal/NN and/CC even/RB hadal/JJ depths/NNS of/IN the/DT deepest/JJS oceans/NNS (/( e.g./FW ,/, gulpers/NNS and/CC anglerfish/NN )/) ./.
+At/IN 32,000/CD species/NN ,/, fish/NN exhibit/NN greater/JJR species/NN diversity/NN than/IN any/DT other/JJ group/NN of/IN vertebrates/NNS ./.
+[/( 3/NNP ]/)
+Fish/NNP are/VBP an/DT important/JJ resource/NN worldwide/JJ ,/, especially/RB as/IN food/NN ./.
+Commercial/JJ and/CC subsistence/NN fishers/NNS hunt/VBP fish/NN in/IN wild/JJ fisheries/NNS (/( see/VB fishing/NN )/) or/CC farm/NN them/PRP in/IN ponds/NNS or/CC in/IN cages/NNS in/IN the/DT ocean/NN (/( see/VB aquaculture/NN )/) ./.
+They/PRP are/VBP also/RB caught/VBN by/IN recreational/JJ fishers/NNS ,/, kept/VBD as/IN pets/NNS ,/, raised/VBN by/IN fishkeepers/NNS ,/, and/CC exhibited/VBD in/IN public/NN aquaria/NN ./.
+Fish/NNP have/VBP had/VBD a/DT role/NN in/IN culture/NN through/IN the/DT ages/NNS ,/, serving/VBG as/IN deities/NNS ,/, religious/JJ symbols/NNS ,/, and/CC as/IN the/DT subjects/NNS of/IN art/NN ,/, books/NNS and/CC movies/NNS ./.
+Because/IN the/DT term/NN "/" fish/NN "/" is/VBZ defined/VBN negatively/RB ,/, and/CC excludes/VBZ the/DT tetrapods/NNS (/( i.e./FW ,/, the/DT amphibians/NNS ,/, reptiles/NNS ,/, birds/NNS and/CC mammals/NNS )/) which/WDT descend/VBP from/IN within/IN the/DT same/JJ ancestry/NN ,/, it/PRP is/VBZ paraphyletic/JJ ,/, and/CC is/VBZ not/RB considered/VBN a/DT proper/JJ grouping/NN in/IN systematic/JJ biology/NN ./.
+The/DT traditional/JJ term/NN pisces/NNS (/( also/RB ichthyes/VBZ )/) is/VBZ considered/VBN a/DT typological/JJ ,/, but/CC not/RB a/DT phylogenetic/JJ classification/NN ./.
+The/DT earliest/JJS organisms/NNS that/WDT can/MD be/VB classified/VBN as/IN fish/NN were/VBD soft-bodied/JJ chordates/NNS that/IN first/RB appeared/VBN during/IN the/DT Cambrian/NNP period/NN ./.
+Although/IN they/PRP lacked/VBD a/DT true/JJ spine/NN ,/, they/PRP possessed/VBD notochords/NNS which/WDT allowed/VBD them/PRP to/TO be/VB more/RBR agile/JJ than/IN their/PRP$ invertebrate/NN counterparts/NNS ./.
+Fish/NNP would/MD continue/VB to/TO evolve/VB through/IN the/DT Paleozoic/NNP era/NN ,/, diversifying/VBG into/IN a/DT wide/JJ variety/NN of/IN forms/NNS ./.
+Many/JJ fish/NN of/IN the/DT Paleozoic/NNP developed/VBD external/JJ armor/NN that/WDT protected/VBD them/PRP from/IN predators/NNS ./.
+The/DT first/JJ fish/NN with/IN jaws/NNS appeared/VBD in/IN the/DT Silurian/NNP period/NN ,/, after/IN which/WDT many/JJ (/( such/JJ as/IN sharks/NNS )/) became/VBD formidable/JJ marine/NN predators/NNS rather/RB than/IN just/RB the/DT prey/NN of/IN arthropods/NNS ./. 
+See/VB also/RB :/: prehistoric/JJ fish/NN Animation/NNP showing/VBG life/NN at/IN different/JJ evolutionary/JJ stages/NNS Outdated/VBN evolutionary/JJ view/NN of/IN continual/JJ gradation/NN (/( animation/NN )/) Drawing/NNP of/IN animal/NN with/IN large/JJ mouth/NN ,/, long/JJ tail/NN ,/, very/RB small/JJ dorsal/NN fins/NNS ,/, and/CC pectoral/JJ fins/NNS that/WDT attach/VBP towards/IN the/DT bottom/NN of/IN the/DT body/NN ,/, resembling/VBG lizard/NN legs/NNS in/IN scale/NN and/CC development/NN ./.
+[/( 4/CD ]/) Dunkleosteus/NNP was/VBD a/DT gigantic/JJ ,/, 10/CD meter/NN (/( 33/NNP feet/NNS )/) long/JJ prehistoric/JJ fish/NN ./.
+Fish/NNP do/VBP not/RB represent/VB a/DT monophyletic/JJ group/NN ,/, and/CC therefore/RB the/DT "/" evolution/NN of/IN fish/NN "/" is/VBZ not/RB studied/VBN as/IN a/DT single/JJ event/NN ./.
+[/( 5/NNP ]/)
+Proliferation/NN of/IN fish/NN was/VBD apparently/RB due/JJ to/TO the/DT hinged/VBN jaw/NN ,/, because/IN jawless/JJ fish/NN left/VBN very/RB few/JJ descendants/NNS ./.
+[/( 6/NNP ]/) Lampreys/NNP may/MD approximate/VB pre-jawed/JJ fish/NN ./.
+The/DT first/JJ jaws/NNS are/VBP found/VBN in/IN Placodermi/NNP fossils/NNS ./.
+It/PRP is/VBZ unclear/JJ if/IN the/DT advantage/NN of/IN a/DT hinged/VBN jaw/NN is/VBZ greater/JJR biting/VBG force/NN ,/, improved/VBN respiration/NN ,/, or/CC a/DT combination/NN of/IN factors/NNS ./.
+Fish/NNP may/MD have/VB evolved/VBN from/IN a/DT creature/NN similar/JJ to/TO a/DT coral-like/NNP Sea/NNP squirt/NN ,/, whose/WP$ larvae/NNS resemble/VBP primitive/JJ fish/NN in/IN important/JJ ways/NNS ./.
+The/DT first/JJ ancestors/NNS of/IN fish/NN may/MD have/VB kept/VBN the/DT larval/JJ form/NN into/IN adulthood/NN (/( as/IN some/DT sea/NN squirts/NNS do/VBP today/RB )/) ,/, although/IN perhaps/RB the/DT reverse/NN is/VBZ the/DT case/NN ./.
+Taxonomy/NNP
+Fish/NNP are/VBP a/DT paraphyletic/JJ group/NN :/: that/DT is/VBZ ,/, any/DT clade/NN containing/VBG all/DT fish/NN also/RB contains/VBZ the/DT tetrapods/NNS ,/, which/WDT are/VBP not/RB fish/NN ./.
+For/IN this/DT reason/NN ,/, groups/NNS such/JJ as/IN the/DT "/" Class/NNP Pisces/NNP "/" seen/VBN in/IN older/JJR reference/NN works/NNS are/VBP no/RB longer/RB used/VBN in/IN formal/JJ classifications/NNS ./.
+Traditional/JJ classification/NN divide/VB fish/NN into/IN three/CD extant/JJ classes/NNS ,/, and/CC with/IN extinct/JJ forms/NNS sometimes/RB classified/VBN within/IN the/DT tree/NN ,/, sometimes/RB as/IN their/PRP$ own/JJ classes:[7][8]/CD
+Class/NNP Agnatha/NNP (/( jawless/JJ fish/NN )/) Subclass/NNP Cyclostomata/NNP (/( hagfish/NN and/CC lampreys/NNS )/) Subclass/NNP Ostracodermi/NNP (/( armoured/VBN jawless/JJ fish/NN )/) †/NNP Class/NNP Chondrichthyes/NNP (/( cartilaginous/JJ fish/NN )/) Subclass/NNP Elasmobranchii/NNP (/( sharks/NNS and/CC rays/NNS )/) Subclass/NNP Holocephali/NNP (/( chimaeras/NNS and/CC extinct/JJ relatives/NNS )/) Class/NNP Placodermi/NNP (/( armoured/VBN fish/NN )/) †/NNP Class/NNP Acanthodii/NNP (/( "/" spiny/JJ sharks/NNS "/" ,/, sometimes/RB classified/VBN under/IN bony/JJ fishes/NNS )/) †/NNP Class/NNP Osteichthyes/NNP (/( bony/JJ fish/NN )/) Subclass/NNP Actinopterygii/NNP (/( ray/NN finned/VBN fishes/VBZ )/) Subclass/NNP Sarcopterygii/NNP (/( fleshy/JJ finned/VBN fishes/VBZ ,/, ancestors/NNS of/IN tetrapods/NNS )/)
+The/DT above/JJ scheme/NN is/VBZ the/DT one/CD most/RBS commonly/RB encountered/VBN in/IN non-specialist/JJ and/CC general/JJ works/NNS ./.
+Many/JJ of/IN the/DT above/JJ groups/NNS are/VBP paraphyletic/JJ ,/, in/IN that/IN they/PRP have/VBP given/VBN rise/NN to/TO successive/JJ groups/NNS :/: Agnathans/NNPS are/VBP ancestral/JJ to/TO Chondrichthyes/NNP ,/, who/WP again/RB have/VB given/VBN rise/NN to/TO Acanthodiians/NNPS ,/, the/DT ancestors/NNS of/IN Osteichthyes/NNP ./.
+With/IN the/DT arrival/NN of/IN phylogenetic/JJ nomenclature/NN ,/, the/DT fishes/NNS has/VBZ been/VBN split/VBN up/IN into/IN a/DT more/RBR detailed/JJ scheme/NN ,/, with/IN the/DT following/VBG major/JJ groups/NNS :/:
+Class/NNP Myxini/NNP (/( hagfish/NN )/)
+Class/NNP Pteraspidomorphi/NNP †/NNP (/( early/JJ jawless/JJ fish/NN )/)
+Class/NNP Thelodonti/NNP †/NNP
+Class/NNP Anaspida/NNP †/NNP
+Class/NNP Petromyzontida/NNP or/CC Hyperoartia/NNP
+Petromyzontidae/NNP (/( lampreys/NNS )/) Class/NNP Conodonta/NNP (/( conodonts/NNS )/) †/NNP Class/NNP Cephalaspidomorphi/NNP †/NNP (/( early/JJ jawless/JJ fish/NN )/) (/( unranked/JJ )/) Galeaspida/NNP †/NNP (/( unranked/JJ )/) Pituriaspida/NNP †/NNP (/( unranked/JJ )/) Osteostraci/NNP †/NNP Infraphylum/NNP Gnathostomata/NNP (/( jawed/VBN vertebrates/NNS )/) Class/NNP Placodermi/NNP †/NNP (/( armoured/VBN fish/NN )/) 
+
+
+Main/NNP article/NN :/: Fish/NNP anatomy/NN The/DT anatomy/NN of/IN Lampanyctodes/NNP hectoris/NN (/( 1/CD )/) -/: operculum/NN (/( gill/NN cover/NN )/) ,/, (/( 2/CD )/) -/: lateral/JJ line/NN ,/, (/( 3/NNP )/) -/: dorsal/NN fin/NN ,/, (/( 4/CD )/) -/: fat/JJ fin/NN ,/, (/( 5/NNP )/) -/: caudal/JJ peduncle/NN ,/, (/( 6/NNP )/) -/: caudal/JJ fin/NN ,/, (/( 7/CD )/) -/: anal/JJ fin/NN ,/, (/( 8/NNP )/) -/: photophores/NNS ,/, (/( 9/NNP )/) -/: pelvic/NN fins/NNS (/( paired/VBN )/) ,/, (/( 10/CD )/) -/: pectoral/JJ fins/NNS (/( paired/VBN )/)
+Respiration/NN
+Most/JJS fish/NN exchange/NN gases/NNS using/VBG gills/NNS on/IN either/DT side/NN of/IN the/DT pharynx/NN ./.
+Gills/NNP consist/VB of/IN threadlike/JJ structures/NNS called/VBN filaments/NNS ./.
+Each/DT filament/NN contains/VBZ a/DT capillary/NN network/NN that/WDT provides/VBZ a/DT large/JJ surface/NN area/NN for/IN exchanging/VBG oxygen/NN and/CC carbon/NN dioxide/NN ./.
+Fish/NNP exchange/NN gases/NNS by/IN pulling/VBG oxygen-rich/JJ water/NN through/IN their/PRP$ mouths/NNS and/CC pumping/VBG it/PRP over/IN their/PRP$ gills/NNS ./.
+In/IN some/DT fish/NN ,/, capillary/NN blood/NN flows/VBZ in/IN the/DT opposite/JJ direction/NN to/TO the/DT water/NN ,/, causing/VBG countercurrent/NN exchange/NN ./.
+The/DT gills/NNS push/NN the/DT oxygen-poor/JJ water/NN out/IN through/IN openings/NNS in/IN the/DT sides/NNS of/IN the/DT pharynx/NN ./.
+Some/DT fish/NN ,/, like/IN sharks/NNS and/CC lampreys/NNS ,/, possess/VB multiple/JJ gill/NN openings/NNS ./.
+However/RB ,/, bony/JJ fish/NN have/VBP a/DT single/JJ gill/NN opening/VBG on/IN each/DT side/NN ./.
+This/DT opening/VBG is/VBZ hidden/VBN beneath/IN a/DT protective/JJ bony/JJ cover/NN called/VBD an/DT operculum/NN ./.
+Juvenile/NNP bichirs/NNS have/VBP external/JJ gills/NNS ,/, a/DT very/RB primitive/JJ feature/NN that/IN they/PRP share/VBP with/IN larval/JJ amphibians/NNS ./.
+Fish/NNP from/IN multiple/JJ groups/NNS can/MD live/VB out/IN of/IN the/DT water/NN for/IN extended/VBN time/NN periods/NNS ./.
+Amphibious/JJ fish/NN such/JJ as/IN the/DT mudskipper/NN can/MD live/VB and/CC move/VB about/IN on/IN land/NN for/IN up/IN to/TO several/JJ days/NNS ,/, or/CC live/VB in/IN stagnant/JJ or/CC otherwise/RB oxygen/NN depleted/VBD water/NN ./.
+Many/JJ such/JJ fish/NN can/MD breathe/VB air/NN via/IN a/DT variety/NN of/IN mechanisms/NNS ./.
+The/DT skin/NN of/IN anguillid/JJ eels/NNS may/MD absorb/VB oxygen/NN directly/RB ./.
+The/DT buccal/JJ cavity/NN of/IN the/DT electric/JJ eel/NN may/MD breathe/VB air/NN ./.
+Catfish/NNP of/IN the/DT families/NNS Loricariidae/NNP ,/, Callichthyidae/NNP ,/, and/CC Scoloplacidae/NNP absorb/VB air/NN through/IN their/PRP$ digestive/JJ tracts/NNS ./.
+[/( 22/CD ]/) Lungfish/NNP ,/, with/IN the/DT exception/NN of/IN the/DT Australian/NNP lungfish/NN ,/, and/CC bichirs/NNS have/VBP paired/VBN lungs/NNS similar/JJ to/TO those/DT of/IN tetrapods/NNS and/CC must/MD surface/NN to/TO gulp/NN fresh/JJ air/NN through/IN the/DT mouth/NN and/CC pass/VB spent/VBN air/NN out/IN through/IN the/DT gills/NNS ./.
+Gar/NNP and/CC bowfin/NN have/VBP a/DT vascularized/VBN swim/NN bladder/NN that/IN functions/VBZ in/IN the/DT same/JJ way/NN ./.
+Loaches/NNP ,/, trahiras/NNS ,/, and/CC many/JJ catfish/NN breathe/VB by/IN passing/VBG air/NN through/IN the/DT gut/NN ./.
+Mudskippers/NNP breathe/VB by/IN absorbing/VBG oxygen/NN across/IN the/DT skin/NN (/( similar/JJ to/TO frogs/NNS )/) ./.
+A/DT number/NN of/IN fish/NN have/VBP evolved/VBN so-called/JJ accessory/NN breathing/NN organs/NNS that/WDT extract/VBP oxygen/NN from/IN the/DT air/NN ./.
+Labyrinth/NN fish/NN (/( such/JJ as/IN gouramis/NN and/CC bettas/NNS )/) have/VB a/DT labyrinth/NN organ/NN above/IN the/DT gills/NNS that/WDT performs/VBZ this/DT function/NN ./.
+A/DT few/JJ other/JJ fish/NN have/VBP structures/NNS resembling/VBG labyrinth/NN organs/NNS in/IN form/NN and/CC function/NN ,/, most/RBS notably/RB snakeheads/VBZ ,/, pikeheads/NNS ,/, and/CC the/DT Clariidae/NNP catfish/NN family/NN ./.
+Breathing/NN air/NN is/VBZ primarily/RB of/IN use/NN to/TO fish/NN that/WDT inhabit/VBP shallow/JJ ,/, seasonally/RB variable/JJ waters/NNS where/WRB the/DT water/NN 's/POS oxygen/NN concentration/NN may/MD seasonally/RB decline/VB ./.
+Fish/NNP dependent/JJ solely/RB on/IN dissolved/VBN oxygen/NN ,/, such/JJ as/IN perch/VB and/CC cichlids/NNS ,/, quickly/RB suffocate/VB ,/, while/IN air-breathers/NNS survive/VBP for/IN much/RB 
+
+
+Main/NNP article/NN :/: Scale/NNP (/( zoology)#Fish/NN scales/NNS
+The/DT scales/NNS of/IN fish/NN originate/VB from/IN the/DT mesoderm/NN (/( skin/NN )/) ;/:
+they/PRP may/MD be/VB similar/JJ in/IN structure/NN to/TO teeth/NNS ./.
+Sensory/JJ and/CC nervous/JJ system/NN Anatomical/JJ diagram/NN showing/VBG the/DT pairs/NNS of/IN olfactory/JJ ,/, telencephalon/NN ,/, and/CC optic/JJ lobes/NNS ,/, followed/VBN by/IN the/DT cerebellum/NN and/CC the/DT mylencephalon/NNP Dorsal/NNP view/NN of/IN the/DT brain/NN of/IN the/DT rainbow/NN trout/NN Central/NNP nervous/JJ system/NN
+Fish/NNP typically/RB have/VB quite/RB small/JJ brains/NNS relative/JJ to/TO body/NN size/NN compared/VBN with/IN other/JJ vertebrates/NNS ,/, typically/RB one-fifteenth/JJ the/DT brain/NN mass/NN of/IN a/DT similarly/RB sized/VBD bird/NN or/CC mammal/NN ./.
+[/( 24/CD ]/) However/RB ,/, some/DT fish/NN have/VBP relatively/RB large/JJ brains/NNS ,/, most/RBS notably/RB mormyrids/VBZ and/CC sharks/NNS ,/, which/WDT have/VBP brains/NNS about/IN as/IN massive/JJ relative/JJ to/TO body/NN weight/NN as/IN birds/NNS and/CC marsupials/NNS ./.
+[/( 25/CD ]/)
+Fish/NNP brains/NNS are/VBP divided/VBN into/IN several/JJ regions/NNS ./.
+At/IN the/DT front/NN are/VBP the/DT olfactory/JJ lobes/NNS ,/, a/DT pair/NN of/IN structures/NNS that/WDT receive/VBP and/CC process/NN signals/NNS from/IN the/DT nostrils/NNS via/IN the/DT two/CD olfactory/JJ nerves/NNS ./.
+[/( 24/CD ]/) The/DT olfactory/JJ lobes/NNS are/VBP very/RB large/JJ in/IN fish/NN that/WDT hunt/VBP primarily/RB by/IN smell/NN ,/, such/JJ as/IN hagfish/NN ,/, sharks/NNS ,/, and/CC catfish/NN ./.
+Behind/IN the/DT olfactory/JJ lobes/NNS is/VBZ the/DT two-lobed/JJ telencephalon/NN ,/, the/DT structural/JJ equivalent/NN to/TO the/DT cerebrum/NN in/IN higher/JJR vertebrates/NNS ./.
+In/IN fish/NN the/DT telencephalon/NN is/VBZ concerned/VBN mostly/RB with/IN olfaction/NN ./.
+[/( 24/CD ]/) Together/RB these/DT structures/NNS form/VBP the/DT forebrain/NN ./.
+Connecting/VBG the/DT forebrain/NN to/TO the/DT midbrain/NN is/VBZ the/DT diencephalon/NN (/( in/IN the/DT diagram/NN ,/, this/DT structure/NN is/VBZ below/IN the/DT optic/JJ lobes/NNS and/CC consequently/RB not/RB visible/JJ )/) ./.
+The/DT diencephalon/NN performs/VBZ functions/NNS associated/VBN with/IN hormones/NNS and/CC homeostasis/NN ./.
+[/( 24/CD ]/) The/DT pineal/JJ body/NN lies/VBZ just/RB above/IN the/DT diencephalon/NN ./.
+This/DT structure/NN detects/NNS light/NN ,/, maintains/VBZ circadian/NN rhythms/NNS ,/, and/CC controls/NNS color/NN changes/NNS ./.
+[/( 24/CD ]/)
+The/DT midbrain/NN or/CC mesencephalon/NN contains/VBZ the/DT two/CD optic/JJ lobes/NNS ./.
+These/DT are/VBP very/RB large/JJ in/IN species/NN that/WDT hunt/VBP by/IN sight/NN ,/, such/JJ as/IN rainbow/NN trout/NN and/CC cichlids/NNS ./.
+[/( 24/CD ]/)
+The/DT hindbrain/NN or/CC metencephalon/NN is/VBZ particularly/RB involved/VBN in/IN swimming/VBG and/CC balance/NN ./.
+[/( 24/CD ]/) The/DT cerebellum/NN is/VBZ a/DT single-lobed/JJ structure/NN that/WDT is/VBZ typically/RB the/DT biggest/JJS part/NN of/IN the/DT brain/NN ./.
+[/( 24/CD ]/) Hagfish/NNP and/CC lampreys/NNS have/VBP relatively/RB small/JJ cerebellae/NN ,/, while/IN the/DT mormyrid/JJ cerebellum/NN is/VBZ massive/JJ and/CC apparently/RB involved/VBN in/IN their/PRP$ electrical/JJ sense/NN ./.
+[/( 24/CD ]/)
+The/DT brain/NN stem/NN or/CC myelencephalon/NN is/VBZ the/DT brain/NN 's/POS posterior/JJ ./.
+[/( 24/CD ]/) As/RB well/RB as/IN controlling/VBG some/DT muscles/NNS and/CC body/NN organs/NNS ,/, in/IN bony/JJ fish/NN at/IN least/JJS ,/, the/DT brain/NN stem/NN governs/VBZ respiration/NN and/CC osmoregulation/NN ./.
+[/( 24/CD ]/) Sense/NN organs/NNS
+Most/JJS fish/NN possess/VB highly/RB developed/VBN sense/NN organs/NNS ./.
+Nearly/RB all/DT daylight/NN fish/NN have/VBP color/NN vision/NN that/WDT is/VBZ at/IN least/JJS as/RB good/JJ as/IN a/DT human/NN 's/POS (/( see/VB vision/NN in/IN fishes/VBZ )/) ./.
+Many/JJ fish/NN also/RB have/VB chemoreceptors/NNS that/WDT are/VBP responsible/JJ for/IN extraordinary/JJ senses/NNS of/IN taste/NN and/CC smell/NN ./.
+Although/IN they/PRP have/VBP ears/NNS ,/, many/JJ fish/NN may/MD not/RB hear/VB very/RB well/RB ./.
+Most/JJS fish/NN have/VBP sensitive/JJ receptors/NNS that/DT form/NN the/DT lateral/JJ line/NN system/NN ,/, which/WDT detects/VBZ gentle/JJ currents/NNS and/CC vibrations/NNS ,/, and/CC senses/VBZ the/DT motion/NN of/IN nearby/JJ fish/NN and/CC prey/NN ./.
+[/( 26/CD ]/) Some/DT fish/NN ,/, such/JJ as/IN catfish/NN and/CC sharks/NNS ,/, have/VBP organs/NNS that/WDT detect/VBP 
+Fish/NNP orient/NN themselves/PRP using/VBG landmarks/NNS and/CC may/MD use/VB mental/JJ maps/NNS based/VBN on/IN multiple/JJ landmarks/NNS or/CC symbols/NNS ./.
+Fish/NNP behavior/NN in/IN mazes/NNS reveals/VBZ that/IN they/PRP possess/VBP spatial/JJ memory/NN and/CC visual/JJ discrimination/NN ./.
+[/( 28/CD ]/)
+Vision/NNP
+Main/JJ article/NN :/: Vision/NNP in/IN fishes/VBZ
+Vision/NNP is/VBZ an/DT important/JJ sensory/JJ system/NN for/IN most/JJS species/NN of/IN fish/NN ./.
+Fish/NNP eyes/NNS are/VBP similar/JJ to/TO those/DT of/IN terrestrial/JJ vertebrates/NNS like/IN birds/NNS and/CC mammals/NNS ,/, but/CC have/VB a/DT more/RBR spherical/JJ lens/NN ./.
+Their/PRP$ retinas/NNS generally/RB have/VBP both/DT rod/NN cells/NNS and/CC cone/NN cells/NNS (/( for/IN scotopic/JJ and/CC photopic/JJ vision/NN )/) ,/, and/CC most/RBS species/NN have/VBP colour/NN vision/NN ./.
+Some/DT fish/NN can/MD see/VB ultraviolet/JJ and/CC some/DT can/MD see/VB polarized/VBN light/NN ./.
+Amongst/IN jawless/JJ fish/NN ,/, the/DT lamprey/NN has/VBZ well-developed/JJ eyes/NNS ,/, while/IN the/DT hagfish/NN has/VBZ only/RB primitive/JJ eyespots/NNS ./.
+[/( 29/CD ]/) Fish/NNP vision/NN shows/VBZ adaptation/NN to/TO their/PRP$ visual/JJ environment/NN ,/, for/IN example/NN deep/JJ sea/NN fishes/VBZ have/VB eyes/NNS suited/VBN to/TO the/DT dark/JJ environment/NN ./.
+Hearing/VBG
+Main/JJ article/NN :/: Hearing/VBG in/IN fishes/VBZ
+Hearing/VBG is/VBZ an/DT important/JJ sensory/JJ system/NN for/IN most/JJS species/NN of/IN fish/NN ./.
+Fish/NNP sense/NN sound/NN using/VBG their/PRP$ lateral/JJ lines/NNS and/CC their/PRP$ ears/NNS ./.
+Capacity/NN for/IN pain/NN Further/JJR information/NN :/: Pain/NN in/IN fish/NN
+Experiments/NNS done/VBN by/IN William/NNP Tavolga/NNP provide/VB evidence/NN that/DT fish/NN have/VBP pain/NN and/CC fear/NN responses/NNS ./.
+For/IN instance/NN ,/, in/IN Tavolga's/NNP experiments/NNS ,/, toadfish/NN grunted/VBD when/WRB electrically/RB shocked/VBN and/CC over/IN time/NN they/PRP came/VBD to/TO grunt/VB at/IN the/DT mere/JJ sight/NN of/IN an/DT electrode/NN ./.
+[/( 30/CD ]/)
+In/IN 2003/CD ,/, Scottish/NNP scientists/NNS at/IN the/DT University/NNP of/IN Edinburgh/NNP and/CC the/DT Roslin/NNP Institute/NNP concluded/VBD that/DT rainbow/NN trout/NN exhibit/NN behaviors/NNS often/RB associated/VBN with/IN pain/NN in/IN other/JJ animals/NNS ./.
+Bee/NNP venom/NN and/CC acetic/JJ acid/NN injected/VBD into/IN the/DT lips/NNS resulted/VBD in/IN fish/NN rocking/NN their/PRP$ bodies/NNS and/CC rubbing/VBG their/PRP$ lips/NNS along/IN the/DT sides/NNS and/CC floors/NNS of/IN their/PRP$ tanks/NNS ,/, which/WDT the/DT researchers/NNS concluded/VBD were/VBD attempts/NNS to/TO relieve/VB pain/NN ,/, similar/JJ to/TO what/WP mammals/NNS would/MD do/VB ./.
+[31][32][33]/CD Neurons/NNP fired/VBD in/IN a/DT pattern/NN resembling/VBG human/NN neuronal/JJ patterns/NNS ./.
+[/( 33/NNP ]/)
+Professor/NNP James/NNP D./NNP Rose/NNP of/IN the/DT University/NNP of/IN Wyoming/NNP claimed/VBD the/DT study/NN was/VBD flawed/VBN since/IN it/PRP did/VBD not/RB provide/VB proof/NN that/DT fish/NN possess/VB "/" conscious/JJ awareness/NN ,/, particularly/RB a/DT kind/NN of/IN awareness/NN that/WDT is/VBZ meaningfully/RB like/IN ours/PRP "/" ./.
+[/( 34/CD ]/) Rose/NNP argues/VBZ that/IN since/IN fish/NN brains/NNS are/VBP so/RB different/JJ from/IN human/NN brains/NNS ,/, fish/NN are/VBP probably/RB not/RB conscious/JJ in/IN the/DT manner/NN humans/NNS are/VBP ,/, so/RB that/IN reactions/NNS similar/JJ to/TO human/NN reactions/NNS to/TO pain/NN instead/RB have/VB other/JJ causes/NNS ./.
+Rose/NNP had/VBD published/VBN a/DT study/NN a/DT year/NN earlier/JJR arguing/VBG that/DT fish/NN can/MD not/RB feel/VB pain/NN because/IN their/PRP$ brains/NNS lack/VBP a/DT neocortex/NN ./.
+[/( 35/NNP ]/) However/RB ,/, animal/NN behaviorist/NNP Temple/NNP Grandin/NNP argues/VBZ that/DT fish/NN could/MD still/RB have/VB consciousness/NN without/IN a/DT neocortex/NN because/IN "/" different/JJ species/NN can/MD use/VB different/JJ brain/NN structures/NNS and/CC systems/NNS to/TO handle/VB the/DT same/JJ functions/NNS ./.
+"/" [/( 33/NNP ]/)
+Animal/NN welfare/NN advocates/NNS raise/VBP concerns/NNS about/IN the/DT possible/JJ suffering/NN of/IN fish/NN caused/VBN by/IN angling/VBG ./.
+Some/DT countries/NNS ,/, such/JJ as/IN Germany/NNP have/VBP banned/VBN specific/JJ types/NNS of/IN fishing/NN ,/, and/CC the/DT British/NNP RSPCA/NNP now/RB formally/RB prosecutes/VBZ individuals/NNS who/WP are/VBP cruel/JJ to/TO fish/NN ./.
+[/( 36/NNP ]/) 
+
+Muscular/NNP system/NN Main/NNP article/NN :/: Fish/NNP locomotion/NNP Photo/NNP of/IN white/JJ bladder/NN that/WDT consists/VBZ of/IN a/DT rectangular/JJ section/NN and/CC a/DT banana-shaped/JJ section/NN connectd/NN by/IN a/DT much/RB thinner/JJR element/NN Swim/NNP bladder/NN of/IN a/DT Rudd/NNP (/( Scardinius/NNP erythrophthalmus/JJ )/)
+Most/JJS fish/NN move/NN by/IN alternately/RB contracting/VBG paired/VBN sets/NNS of/IN muscles/NNS on/IN either/DT side/NN of/IN the/DT backbone/NN ./.
+These/DT contractions/NNS form/VBP S-shaped/JJ curves/NNS that/WDT move/VBP down/IN the/DT body/NN ./.
+As/IN each/DT curve/NN reaches/VBZ the/DT back/JJ fin/NN ,/, backward/JJ force/NN is/VBZ applied/VBN to/TO the/DT water/NN ,/, and/CC in/IN conjunction/NN with/IN the/DT fins/NNS ,/, moves/VBZ the/DT fish/NN forward/RB ./.
+The/DT fish/NN 's/POS fins/NNS function/VBP like/IN an/DT airplane/NN 's/POS flaps/NNS ./.
+The/DT 2006/CD IUCN/NNP Red/NNP List/VB names/NNS 1,173/CD fish/NN species/NN that/WDT are/VBP threatened/VBN with/IN extinction/NN ./.
+[/( 52/CD ]/) Included/VBN are/VBP species/NN such/JJ as/IN Atlantic/NNP cod,[53]/CD Devil/NNP 's/POS Hole/NNP pupfish,[54]/JJ coelacanths,[55]/NN and/CC great/JJ white/JJ sharks/NNS ./.
+[/( 56/NNP ]/) Because/IN fish/NN live/VB underwater/JJ they/PRP are/VBP more/RBR difficult/JJ to/TO study/VB than/IN terrestrial/JJ animals/NNS and/CC plants/NNS ,/, and/CC information/NN about/IN fish/NN populations/NNS is/VBZ often/RB lacking/VBG ./.
+However/RB ,/, freshwater/NN fish/NN seem/VB particularly/RB threatened/VBN because/IN they/PRP often/RB live/VBP in/IN relatively/RB small/JJ water/NN bodies/NNS ./.
+For/IN example/NN ,/, the/DT Devil/NNP 's/POS Hole/NNP pupfish/NN occupies/VBZ only/RB a/DT single/JJ 3/NNP by/IN 6/NNP metres/NNS (/( 10/CD by/IN 20/CD ft/NN )/) pool/NN ./.
+[/( 57/CD ]/) 
+Fins/NNS also/RB increase/VBP the/DT tail/NN 's/POS surface/NN area/NN ,/, increasing/VBG speed/NN ./.
+The/DT streamlined/JJ body/NN of/IN the/DT fish/NN decreases/VBZ the/DT amount/NN of/IN friction/NN from/IN the/DT water/NN ./.
+Since/IN body/NN tissue/NN is/VBZ denser/JJ than/IN water/NN ,/, fish/NN must/MD compensate/VB for/IN the/DT difference/NN or/CC they/PRP will/MD sink/VB ./.
+Many/JJ bony/JJ fish/NN have/VBP an/DT internal/JJ organ/NN called/VBD a/DT swim/NN bladder/NN that/WDT adjusts/VBZ their/PRP$ buoyancy/NN through/IN manipulation/NN of/IN gases/NNS ./.
+Photo/NN of/IN shark/NN surrounded/VBN by/IN school/NN of/IN other/JJ fish/NN A/DT 3-tonne/JJ (/( 3.0-long-ton/CD ;/:
+3.3-short-ton/JJ )/) great/JJ white/JJ shark/NN off/IN Isla/NNP Guadalupe/NNP
+Homeothermy/NNP
+Although/IN most/JJS fish/NN are/VBP exclusively/RB ectothermic/JJ ,/, there/EX are/VBP exceptions/NNS ./.
+Certain/JJ species/NN of/IN fish/NN maintain/VB elevated/VBN body/NN temperatures/NNS ./.
+Endothermic/JJ teleosts/NNS (/( bony/JJ fish/NN )/) are/VBP all/DT in/IN the/DT suborder/NNP Scombroidei/NNP and/CC include/VB the/DT billfishes/NNS ,/, tunas/NNS ,/, and/CC one/CD species/NN of/IN "/" primitive/JJ "/" mackerel/NN (/( Gasterochisma/NNP melampus/JJ )/) ./.
+All/DT sharks/NNS in/IN the/DT family/NN Lamnidae/NNP -/: shortfin/NN mako/NN ,/, long/JJ fin/NN mako/NN ,/, white/JJ ,/, porbeagle/NN ,/, and/CC salmon/NN shark/NN -/: are/VBP endothermic/JJ ,/, and/CC evidence/NN suggests/VBZ the/DT trait/NN exists/VBZ in/IN family/NN Alopiidae/NNP (/( thresher/NN sharks/NNS )/) ./.
+The/DT degree/NN of/IN endothermy/NN varies/VBZ from/IN the/DT billfish/NN ,/, which/WDT warm/JJ only/RB their/PRP$ eyes/NNS and/CC brain/NN ,/, to/TO bluefin/VB tuna/NN and/CC porbeagle/NN sharks/NNS who/WP maintain/VBP body/NN temperatures/NNS elevated/VBN in/IN excess/NN of/IN 20/CD °/NNP C/NN above/IN ambient/NN water/NN temperatures/NNS ./.
+[/( 37/CD ]/) See/VB also/RB gigantothermy/VB ./.
+Endothermy/NNP ,/, though/IN metabolically/RB costly/JJ ,/, is/VBZ thought/VBN to/TO provide/VB advantages/NNS such/JJ as/IN increased/VBN muscle/NN strength/NN ,/, higher/JJR rates/NNS of/IN central/JJ nervous/JJ system/NN processing/NN ,/, and/CC higher/JJR rates/NNS of/IN digestion/NN ./. 
